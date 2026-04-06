@@ -15,6 +15,7 @@ Focused on <strong>large language models and backend systems</strong>, with hand
 ---
 
 ## Tech Stack
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
