@@ -9,7 +9,7 @@ Computer Science @ Wayne State (May 2026) • AI/ML Focus • LLMs & Backend Sys
 </p>
 
 <p align="center">
-Focused on large language models and backend systems, with hands-on experience building and training models while exploring how they behave in real-world applications. Interested in developing end-to-end systems that combine **LLMs with scalable backend infrastructure.
+Focused on <strong>large language models and backend systems</strong>, with hands-on experience building and training models while exploring how they behave in real-world applications. Interested in developing end-to-end systems that combine LLMs with scalable backend infrastructure.
 </p>
 
 ---
