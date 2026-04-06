@@ -1,3 +1,21 @@
+<h1 align="center">Parthiv Gajula</h1>
+
+<p align="center">
+Computer Science @ Wayne State (May 2026) • AI/ML Focus • LLMs & Backend Systems
+</p>
+
+<p align="center">
+Troy, MI • +1 (248)-250-0975 • 
+<a href="mailto:sign2parthiv@gmail.com">sign2parthiv@gmail.com</a> • 
+<a href="https://parthivg.com">parthivg.com</a>
+</p>
+
+<p align="center">
+Focused on large language models and backend systems, with hands-on experience building and training models while exploring how they behave in real-world applications. Interested in developing end-to-end systems that combine AI with scalable backend infrastructure.
+</p>
+
+---
+
 ## ⚙️ Tech Stack
 
 **Languages**  
@@ -19,9 +37,9 @@ Jenkins • Render
 SSMS • Expo • Jest • Selenium • PyTest • ESLint  
 
 **Security**  
-OAuth 2.0 • JWT • OpenSSL • AES  
+OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening  
 
 **AI / ML**  
 <img src="https://skillicons.dev/icons?i=pytorch" />  
-RAG • BERT • GPT • Fine-Tuning • NLP  
+RAG • BERT • GPT • Fine-Tuning • Prompt Engineering  
 Seq2Seq • LSTM • RNN • CNN • GAN • VAE • RLHF • Multimodal
