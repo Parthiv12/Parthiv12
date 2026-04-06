@@ -9,7 +9,7 @@ Detroit, MI • <a href="https://parthivg.com">parthivg.com</a>
 </p>
 
 <p align="center">
-Focused on large language models and backend systems, with hands-on experience building and training models while exploring how they behave in real-world applications. Interested in developing end-to-end systems that combine AI with scalable backend infrastructure.
+Focused on large language models and backend systems, with hands-on experience building and training models while exploring how they behave in real-world applications. Interested in developing end-to-end systems that combine **LLMs with scalable backend infrastructure**.
 </p>
 
 ---
