@@ -5,7 +5,7 @@ Computer Science @ Wayne State (May 2026) • AI/ML Focus • LLMs & Backend Sys
 </p>
 
 <p align="center">
-**Detroit, MI • <a href="https://parthivg.com">parthivg.com</a>**
+<strong>Detroit, MI • <a href="https://parthivg.com">parthivg.com</a></strong>
 </p>
 
 <p align="center">
