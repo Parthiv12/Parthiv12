@@ -5,7 +5,8 @@ Computer Science @ Wayne State (May 2026) • AI/ML Focus • LLMs & Backend Sys
 </p>
 
 <p align="center">
-<strong>Detroit, MI • <a href="https://parthivg.com">parthivg.com</a></strong></p>
+<strong>Detroit, MI • <a href="https://parthivg.com">parthivg.com</a></strong>
+</p>
 
 <p align="center">
 Focused on large language models and backend systems, with hands-on experience building and training models while exploring how they behave in real-world applications. Interested in developing end-to-end systems that combine <strong>LLMs with scalable backend infrastructure</strong>.
@@ -38,14 +39,14 @@ SQL Server • Firebase
 </p>
 
 ### Tools & Testing
-<img src="https://skillicons.dev/icons?i=git,postman" />  
-Insomnia • SSMS • Expo • Jest • Selenium • PyTest • ESLint
+<img src="https://skillicons.dev/icons?i=git,postman" />
+
+Insomnia · SSMS · Expo · Jest · Selenium · PyTest · ESLint
 
 ### Security
-OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening
+OAuth 2.0 · JWT · OpenSSL · AES · Apache Hardening
 
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
 
-HuggingFace • RAG • GPT • Fine-Tuning • RLHF • Multimodal****
+HuggingFace · RAG · GPT · Fine-Tuning · RLHF · Multimodal
