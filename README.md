@@ -1,49 +1,27 @@
-<h1 align="center">Hi 👋, I'm Parthiv</h1>
-<h3 align="center">AI/ML Engineer • Backend Systems • LLM Focus</h3>
-
-<p align="center">
-📍 Troy, MI • 📫 sign2parthiv@gmail.com • 🌐 https://parthivg.com
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
-### 💻 Languages
-Python • Java • JavaScript • SQL • C/C++ • Kotlin  
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
 
-### ⚙️ Backend & Frameworks
-Node.js • Express • Flask • FastAPI  
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,rails,pytorch" />
 
-### 🌐 Frontend
-React • Next.js  
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />  
+SQL Server • Firebase  
 
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB  
+**DevOps / Cloud**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx" />  
+Jenkins • Render  
 
-### ☁️ DevOps / Infra
-Docker • Kubernetes • Terraform • Nginx  
+**Tools & Testing**  
+<img src="https://skillicons.dev/icons?i=git,postman" />  
+SSMS • Expo • Jest • Selenium • PyTest • ESLint  
 
-### 🔐 Security
-OAuth 2.0 • JWT • OpenSSL  
+**Security**  
+OAuth 2.0 • JWT • OpenSSL • AES  
 
-### 🤖 AI / ML
-PyTorch • RAG • BERT • GPT • NLP • Deep Learning  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthiv12&theme=tokyonight&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv12&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parthiv12&theme=radical&no-frame=true&no-bg=true" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Parthiv12&icon=0&color=0" />
-</p>
+**AI / ML**  
+<img src="https://skillicons.dev/icons?i=pytorch" />  
+RAG • BERT • GPT • Fine-Tuning • NLP  
+Seq2Seq • LSTM • RNN • CNN • GAN • VAE • RLHF • Multimodal
