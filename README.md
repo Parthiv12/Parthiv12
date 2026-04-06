@@ -20,7 +20,7 @@ Focused on <strong>large language models and backend systems</strong>, with hand
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=flask,django,rails,fastapi,express,nextjs,react,pytorch" />
+<img src="https://skillicons.dev/icons?i=nestjs,flask,django,rails,fastapi,express,nextjs,react" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />  
@@ -51,7 +51,17 @@ OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening
 
 <p>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERT-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-475569?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-64748B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seq2Seq-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNN-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-475569?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GAN-64748B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VAE-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RLHF-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal-334155?style=for-the-badge" />
 </p>
-
-RAG • BERT • GPT • Fine-Tuning • Prompt Engineering  
-Seq2Seq • LSTM • RNN • CNN • GAN • VAE • RLHF • Multimodal
