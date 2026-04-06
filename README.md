@@ -16,7 +16,8 @@ Focused on <strong>large language models and backend systems</strong>, with hand
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
-
+<img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible" />
+<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka" />
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
 
