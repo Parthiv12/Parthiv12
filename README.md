@@ -26,7 +26,7 @@ Focused on large language models and backend systems, with hands-on experience b
 
 **Databases**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />  
-SQL Server • Firebase  
+SQL Server • Firebase
 
 **DevOps / Cloud**  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx" />  
@@ -34,7 +34,7 @@ Jenkins • Render
 
 **Tools & Testing**  
 <img src="https://skillicons.dev/icons?i=git,postman" />  
-SSMS • Expo • Jest • Selenium • PyTest • ESLint  
+Insomnia • SSMS • Expo • Jest • Selenium • PyTest • ESLint  
 
 **Security**  
 OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening  
