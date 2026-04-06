@@ -42,5 +42,6 @@ OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening
 **AI / ML** 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+
 RAG • BERT • GPT • Fine-Tuning • Prompt Engineering  
 Seq2Seq • LSTM • RNN • CNN • GAN • VAE • RLHF • Multimodal
