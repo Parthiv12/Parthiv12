@@ -15,9 +15,7 @@ Focused on <strong>large language models and backend systems</strong>, with hand
 ---
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
-<img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible" />
-<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka" />
+
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
 
@@ -29,8 +27,16 @@ Focused on <strong>large language models and backend systems</strong>, with hand
 SQL Server • Firebase
 
 ### DevOps / Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx" />  
-Jenkins • Render
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx" />
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
 ### Tools & Testing
 <img src="https://skillicons.dev/icons?i=git,postman" />  
@@ -41,7 +47,11 @@ OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening
 
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
 RAG • BERT • GPT • Fine-Tuning • Prompt Engineering  
 Seq2Seq • LSTM • RNN • CNN • GAN • VAE • RLHF • Multimodal
