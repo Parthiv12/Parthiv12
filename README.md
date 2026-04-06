@@ -48,11 +48,4 @@ OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPT-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-475569?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RLHF-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multimodal-334155?style=for-the-badge" />
-</p>
+HuggingFace • RAG • GPT • Fine-Tuning • RLHF • Multimodal****
