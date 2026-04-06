@@ -5,9 +5,7 @@ Computer Science @ Wayne State (May 2026) • AI/ML Focus • LLMs & Backend Sys
 </p>
 
 <p align="center">
-Troy, MI • +1 (248)-250-0975 • 
-<a href="mailto:sign2parthiv@gmail.com">sign2parthiv@gmail.com</a> • 
-<a href="https://parthivg.com">parthivg.com</a>
+Detroit, MI • <a href="https://parthivg.com">parthivg.com</a>
 </p>
 
 <p align="center">
