@@ -40,6 +40,7 @@ Insomnia • SSMS • Expo • Jest • Selenium • PyTest • ESLint
 OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening  
 
 **AI / ML** 
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
 
