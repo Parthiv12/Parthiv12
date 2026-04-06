@@ -16,29 +16,28 @@ Focused on <strong>large language models and backend systems</strong>, with hand
 
 ## Tech Stack
 
-**Languages**  
+### Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
 
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,rails,pytorch" />
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=flask,django,rails,fastapi,express,nextjs,react,pytorch" />
 
-**Databases**  
+### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />  
 SQL Server • Firebase
 
-**DevOps / Cloud**  
+### DevOps / Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx" />  
-Jenkins • Render  
+Jenkins • Render
 
-**Tools & Testing**  
+### Tools & Testing
 <img src="https://skillicons.dev/icons?i=git,postman" />  
-Insomnia • SSMS • Expo • Jest • Selenium • PyTest • ESLint  
+Insomnia • SSMS • Expo • Jest • Selenium • PyTest • ESLint
 
-**Security**  
-OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening  
+### Security
+OAuth 2.0 • JWT • OpenSSL • AES • Apache Hardening
 
-**AI / ML** 
-
+### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
 
