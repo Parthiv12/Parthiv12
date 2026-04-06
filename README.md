@@ -16,7 +16,7 @@ Focused on large language models and backend systems, with hands-on experience b
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,kotlin,r,ruby" />
